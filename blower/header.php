@@ -10,3 +10,12 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 
   <style>
+    body{
+      font-family: 'Open Sans', sans-serif;       
+    }
+    nav{
+      background-color:#216583 !important;
+      
+    }
+    b{
+      color: #ffffff
