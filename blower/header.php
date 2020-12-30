@@ -19,3 +19,13 @@
     }
     b{
       color: #ffffff
+    }
+    .navbar-brand {
+    padding: 22px 15px 0px 15px !important;
+
+}
+.navbar-nav>li>a {
+    padding-top: 24px;
+}
+  </style>
+</head>
