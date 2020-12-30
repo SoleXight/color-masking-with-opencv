@@ -29,3 +29,15 @@
 }
   </style>
 </head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" style="border:none;">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.php"><img src="whistle.png" style="height: 70px;width: 70px;margin-top: -30px;" title="whistle_investigator">
+      <a href=""><label style=" font-size: 12px;color:#ffffff;margin-top: 40px;">Powered by Corda</label></a>
+    </div>
+    <ul class="nav navbar-nav" style="float: right;">
+      <li><a href="index.php"><label style="font-size: 15px; "><b>Blow Whistle</b></label></a></li>
+      <li><a href="view.php"><label style="font-size: 15px; "><b>View Whistle</b></label></a></li>
+<!--       <li><a href="dashboard.php"><label style="font-size: 20px; color: black;"><b>DashBoard</b></label></a></li>
+ -->    </ul>
