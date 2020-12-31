@@ -20,3 +20,10 @@
     }
   </style>
 </head>
+<body style="font-family:Times New Roman;background-color:#FAFAFA;">
+<?php include "header.php"; ?>
+<br><br><br>
+<div style="margin-left: 120px;">
+
+  <div class="container" style="margin-top: 100px; margin-left: 230px;">
+    <!-- <h2 style="margin-left:13px; background-color: red;"><b>BLOW WHISTLE</b></h2> -->
