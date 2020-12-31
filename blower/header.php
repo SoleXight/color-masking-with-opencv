@@ -41,3 +41,7 @@
       <li><a href="view.php"><label style="font-size: 15px; "><b>View Whistle</b></label></a></li>
 <!--       <li><a href="dashboard.php"><label style="font-size: 20px; color: black;"><b>DashBoard</b></label></a></li>
  -->    </ul>
+  </div>
+</nav>
+</body>
+</html>
