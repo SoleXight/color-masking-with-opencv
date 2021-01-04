@@ -36,3 +36,10 @@
       <div class="col-xs-8"><select class="form-control" id="company" style="border-color: #216582;"onchange='CheckColors(this.value);'>
           <option>--Select--</option>
           <option>Pied Piper</option>
+          <option>Hooli</option>
+          <option>FixNix</option>
+          <option>Other</option>
+
+        </select>
+      <br>
+      <div class="form-group">
