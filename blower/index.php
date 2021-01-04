@@ -27,3 +27,12 @@
 
   <div class="container" style="margin-top: 100px; margin-left: 230px;">
     <!-- <h2 style="margin-left:13px; background-color: red;"><b>BLOW WHISTLE</b></h2> -->
+    <div class="row">
+      <form class="form-horizontal">
+    <div class="form-group">
+      <div class="form-group">
+      <!-- <div class="col-md-6 input_val"> -->  
+        <label style="font-size: 15px;" class="col-xs-2">Name of the Company:</label> 
+      <div class="col-xs-8"><select class="form-control" id="company" style="border-color: #216582;"onchange='CheckColors(this.value);'>
+          <option>--Select--</option>
+          <option>Pied Piper</option>
