@@ -43,3 +43,16 @@
         </select>
       <br>
       <div class="form-group">
+         <div class="col-xs-12">
+            <input type="text" name="color" id="color" placeholder="Enter Your Company Name"  style='display:none;border-color: #216582;'/ class="form-control">
+         </div>
+     </div>
+                    <!-- <div class="input-group control-group2 after-add-more2" >
+                      <button class="btn btn-success add-more2" type="button" style="margin-top: -54px;margin-left: 800px;border-color: #216582;"><i class=" glyphicon glyphicon-plus"></i></button>
+                    </div>-->
+    </div>
+    <!--<input type="text" name="color" id="color" style='display:none;'/>-->
+    
+     <!--<div class="copy2 hide">
+                   <div class="col-md-9 input_val">
+                      <div class="container control-group2 input-group"> 
