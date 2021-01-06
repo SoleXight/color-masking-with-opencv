@@ -56,3 +56,12 @@
      <!--<div class="copy2 hide">
                    <div class="col-md-9 input_val">
                       <div class="container control-group2 input-group"> 
+                       <div class="row">
+                         <div class="col-md-9 input_val">
+                                <input type="text" placeholder="Write Your Company Name" class="form-control" id="persons" style="width: 790px;border-color: #216582">
+                            </div>
+                            <br>
+                         <div class="col-md-9">
+                             <button class="btn btn-danger remove2" type="button" style="margin-top: -54px;margin-left: 790px;"><i class="glyphicon glyphicon-remove" ></i></button>
+                         </div>
+                       </div>
