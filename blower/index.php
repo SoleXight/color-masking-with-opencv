@@ -71,3 +71,14 @@
   </div>
       <div class="form-group">
         <label style="font-size: 15px;" class="col-xs-2">Category:</label>
+        <div class="col-xs-8">
+        <select class="form-control" id="category" style="border-color: #216582;">
+          <option>--Select--</option>
+          <option>Accounting and Other Financial Impropriety</option>
+          <option>Bribery or Corruption</option>
+          <option>Money Laundering</option>
+          <option>Sanctions</option>
+          <option>Theft/Fraud</option>
+          <option>Health & Safty</option>
+        </select>
+      </div>
