@@ -65,3 +65,9 @@
                              <button class="btn btn-danger remove2" type="button" style="margin-top: -54px;margin-left: 790px;"><i class="glyphicon glyphicon-remove" ></i></button>
                          </div>
                        </div>
+                      </div>
+                  </div>
+          </div>-->
+  </div>
+      <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">Category:</label>
