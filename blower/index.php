@@ -82,3 +82,14 @@
           <option>Health & Safty</option>
         </select>
       </div>
+    </div><br>
+     
+      <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">Relationship:</label>
+        <div class="col-xs-8">
+
+        <select class="form-control" id="association" style="border-color: #216582;">
+          <option>--Select--</option>
+          <option>Employee</option>
+           <option>Temporary Employee</option>
+          <option>Contractror</option>
