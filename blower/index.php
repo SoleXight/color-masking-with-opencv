@@ -105,3 +105,14 @@
         <div class="col-xs-8">
         <select class="form-control" id="aware" style="border-color: #216582;">
           <option>--Select--</option>
+          <option>It happened to me</option>
+          <option>I observed it</option>
+          <option>Told to me by co-worker</option>
+          <option>Told to me by someone outside the company</option>
+          <option>I heared it</option>
+        </select>
+      </div>
+    </div><br>
+
+     <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">Department:</label>
