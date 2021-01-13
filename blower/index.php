@@ -93,3 +93,11 @@
           <option>Employee</option>
            <option>Temporary Employee</option>
           <option>Contractror</option>
+          <option>Consultant</option>
+          <option>Former Employee</option>
+
+        </select>
+      </div>
+    </div><br>
+
+      <div class="form-group">
