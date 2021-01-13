@@ -116,3 +116,14 @@
 
      <div class="form-group">
         <label style="font-size: 15px;" class="col-xs-2">Department:</label>
+        <div class="col-xs-8">
+        <select class="form-control" id="DepartmentPR" style="border-color: #216582;">
+          <option>--Select--</option>
+          <option>Marketing</option>
+          <option>Software</option>
+          <option>Development</option>
+          <option>Sales</option>
+          <option>Risk</option>
+          <option>Research</option>
+          <option>HR</option>
+          <option>Health</option>
