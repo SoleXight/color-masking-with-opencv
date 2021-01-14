@@ -127,3 +127,13 @@
           <option>Research</option>
           <option>HR</option>
           <option>Health</option>
+
+         <!-- <option>HQ-Management</option>
+          <option>HQ-Workers</option>
+          <option>R&D-Workers</option>
+          <option>HR</option>
+          <option>Health</option>-->
+        </select>
+      </div>
+    </div><br>
+
