@@ -137,3 +137,11 @@
       </div>
     </div><br>
 
+
+      <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">Location:</label>
+        <div class="col-xs-8">
+        <input type="text" placeholder="Place" class="form-control" id="placeofoccurance" style="border-color: #216582;">
+      </div>
+      <!--  <div class="col-md-6 input_val">
+        <label style="font-size: 13px;">Person(s) Involved:</label>
