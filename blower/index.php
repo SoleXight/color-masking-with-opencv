@@ -145,3 +145,14 @@
       </div>
       <!--  <div class="col-md-6 input_val">
         <label style="font-size: 13px;">Person(s) Involved:</label>
+        <input type="text" placeholder="Person Name" class="form-control" id="persons">
+      </div> -->
+    </div><br>
+
+
+     <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">Monetary value:</label>
+        <div class="col-xs-8">
+        <select class="form-control" id="fraud" style="border-color: #216582;">
+          <option>--Select--</option>
+          <option>$0 to $100,000</option>
