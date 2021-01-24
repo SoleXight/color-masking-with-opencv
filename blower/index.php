@@ -156,3 +156,13 @@
         <select class="form-control" id="fraud" style="border-color: #216582;">
           <option>--Select--</option>
           <option>$0 to $100,000</option>
+          <option>$100,000 to 200,000</option>
+          <option>$200,000 to $300,000</option>
+          <option>$300,000 to $400,000</option>
+          <option>$400,000 to $500,000</option>
+        </select>
+      </div>
+    </div><br>
+
+      <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">Period:</label>
