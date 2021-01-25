@@ -166,3 +166,10 @@
 
       <div class="form-group">
         <label style="font-size: 15px;" class="col-xs-2">Period:</label>
+        <div class="col-xs-8">
+        <select class="form-control" id="periodofincident" style="border-color: #216582;">
+          <option>--Select--</option>
+          <option>once</option>
+          <option>one week</option>
+          <option>1 to 3months</option>
+                </select>
