@@ -178,3 +178,8 @@
 
     
      <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">People Involved:</label>
+        <div class="col-xs-8">
+          <input type="radio" name="aware" value="peos" checked="checked">Not Aware&nbsp;&nbsp;&nbsp;
+          <input type="radio" name="aware" value="peo" >Aware  
+      </div>
