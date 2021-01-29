@@ -192,3 +192,13 @@
         <input type="text" placeholder="Name" class="form-control" id="persons" style="border-color: #216582;">
       </div>
       <div class="col-md-3 input_val">
+        <label style="font-size: 13px;">Designation:</label>
+        <input type="text" placeholder="Designation" class="form-control" id="Designation" style="border-color: #216582;">
+      </div>
+      <div class="col-md-2 input_val" style="width: 21%;">
+        <label style="font-size: 13px;">Department:</label>
+        <input type="text" placeholder="Department" class="form-control" id="DepartmentIn" style="border-color: #216582;">
+      </div>
+    
+    <div class="input-group control-group after-add-more">
+            <div class="input-group-btn"> 
