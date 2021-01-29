@@ -183,3 +183,12 @@
           <input type="radio" name="aware" value="peos" checked="checked">Not Aware&nbsp;&nbsp;&nbsp;
           <input type="radio" name="aware" value="peo" >Aware  
       </div>
+    </div>
+    
+
+    <div id="people" class="container" style="margin-left: 16%;">
+      <div class="col-md-3 input_val">
+        <label style="font-size: 13px;">Name:</label>
+        <input type="text" placeholder="Name" class="form-control" id="persons" style="border-color: #216582;">
+      </div>
+      <div class="col-md-3 input_val">
