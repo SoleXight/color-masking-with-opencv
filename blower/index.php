@@ -223,3 +223,17 @@
                 <button class="btn btn-danger remove" type="button" style="margin-top: 24px;"><i class="glyphicon glyphicon-remove"></i></button>
             </div>
           </div>
+  </div><br>
+
+
+      <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">Your details:</label>
+        <div class="col-xs-8">
+         <input type="radio" name="radio1" value="Anonymous"  checked="checked" id="Anonymous">Keen to be Anonymous
+         <input type="radio" name="radio1" value="disclose" id="disclose">Keen to disclose
+      </div>
+    </div>
+
+      <div id="details" class="container" style="margin-left: 16%;">
+         <div class="col-md-3 input_val">
+           <label style="font-size: 13px;">Name:</label>
