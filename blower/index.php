@@ -245,3 +245,9 @@
       </div>
       <div class="col-md-3 input_val" style="width: 21%;">
         <label style="font-size: 13px;">Phone no:</label>
+        <input type="text" placeholder="Phone" class="form-control"  style="border-color: #216582;">
+      </div>
+        
+
+          <div class="input-group control-group3 after-add-more3">
+             <div class="input-group-btn"> 
