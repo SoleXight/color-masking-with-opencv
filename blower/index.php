@@ -273,3 +273,13 @@
             </div>
           </div>
     </div><br>
+
+
+      
+      <div class="form-group">
+           <label style="font-size: 15px;" class="col-xs-2">Are Authorities aware:</label>
+           <div class="col-xs-8">
+           <input type="radio" checked="checked" name="radio2" value="NO" id="authknows">No
+           <input type="radio" name="radio2" value="YES" id="authknows">Yes
+         </div>
+    </div>
