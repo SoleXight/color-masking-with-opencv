@@ -251,3 +251,12 @@
 
           <div class="input-group control-group3 after-add-more3">
              <div class="input-group-btn"> 
+              <button class="btn btn-success add-more3" type="button" style="margin-top: 24px;"><i class="glyphicon glyphicon-plus"></i></button>
+             </div>
+          </div>
+   <div class="copy6 hide">
+            <div class="container control-group3 input-group" style="margin-left: -14px;">
+              <!-- <input type="text" name="addmore[]" class="form-control" placeholder="Enter Name Here"> -->
+              <div class="col-md-3 input_val">
+        <label style="font-size: 13px;">Name:</label>
+        <input type="text" placeholder="Name" class="form-control"  style="border-color: #216582;">
