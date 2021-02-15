@@ -260,3 +260,16 @@
               <div class="col-md-3 input_val">
         <label style="font-size: 13px;">Name:</label>
         <input type="text" placeholder="Name" class="form-control"  style="border-color: #216582;">
+      </div>
+      <div class="col-md-3 input_val">
+          <label style="font-size: 13px;">Email:</label>
+          <input type="text" placeholder="Email" class="form-control" style="border-color: #216582;">
+      </div>
+      <div class="col-md-2 input_val" style="width: 21%;">
+        <label style="font-size: 13px;">Phone No:</label>
+        <input type="text" placeholder="Phone Number" class="form-control" style="border-color: #216582;">
+      </div>
+                <button class="btn btn-danger remove3" type="button" style="margin-top: 24px;"><i class="glyphicon glyphicon-remove"></i></button>
+            </div>
+          </div>
+    </div><br>
