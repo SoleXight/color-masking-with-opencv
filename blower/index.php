@@ -297,3 +297,18 @@
         <div class="col-md-3 input_val" style="width: 21%;">
         <label style="font-size: 13px;">Phone no:</label>
         <input type="text" placeholder="Phone" class="form-control" id="PhoneAuth" style="border-color: #216582;">
+        </div>
+    </div><br>
+
+  <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">Incident Information:</label>
+        <div class="col-xs-7">
+        <textarea type="text" placeholder="Incident Information" class="form-control" id="nature" style="height: 150px;border-color: #216582;width: 795px;"></textarea>
+        </div>
+        <div class="col-xs-2">
+        <label aria-hidden="true" style="margin-left:85px;">Artifacts<i class="btn btn-danger btn-block"><span class="glyphicon glyphicon-paperclip"></span></i>
+          <input type="file" style="display:none" /></label>
+        </div>
+   </div>
+
+    
