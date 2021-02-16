@@ -283,3 +283,11 @@
            <input type="radio" name="radio2" value="YES" id="authknows">Yes
          </div>
     </div>
+
+
+    <div id="auth" class="container" style="margin-left: 16%;">
+        <div class="col-md-3 input_val">
+        <label style="font-size: 13px;">Name:</label>
+        <input type="text" placeholder="Name" class="form-control" id="NameAuth" style="border-color: #216582;">
+        </div>
+        <div class="col-md-3 input_val">
