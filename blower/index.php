@@ -291,3 +291,9 @@
         <input type="text" placeholder="Name" class="form-control" id="NameAuth" style="border-color: #216582;">
         </div>
         <div class="col-md-3 input_val">
+        <label style="font-size: 13px;">Email:</label>
+        <input type="text" placeholder="Email" class="form-control" id="EmailAuth" style="border-color: #216582;">
+         </div>
+        <div class="col-md-3 input_val" style="width: 21%;">
+        <label style="font-size: 13px;">Phone no:</label>
+        <input type="text" placeholder="Phone" class="form-control" id="PhoneAuth" style="border-color: #216582;">
