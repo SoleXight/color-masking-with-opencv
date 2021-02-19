@@ -312,3 +312,15 @@
    </div>
 
     
+    <div class="form-group">
+        <label style="font-size: 15px;" class="col-xs-2">In case of reward:</label>
+        <div class="col-xs-8">
+        <input type="radio" name="radio3" value="self">Self
+        &nbsp; &nbsp; &nbsp;<input type="radio" name="radio3" value="donate">Donate 
+       </div>
+  </div>
+                     <!--In Case of reward -->
+
+                        <div id="peoples" class="container" style="margin-left: 16%;">
+                                           <div class="col-md-3 input_val">
+                                        <input type="text" placeholder="Account Holder Name" class="form-control" style="border-color: #216582;">
