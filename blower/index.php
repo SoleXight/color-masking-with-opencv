@@ -324,3 +324,16 @@
                         <div id="peoples" class="container" style="margin-left: 16%;">
                                            <div class="col-md-3 input_val">
                                         <input type="text" placeholder="Account Holder Name" class="form-control" style="border-color: #216582;">
+                                      </div>
+                                  <div class="col-md-3 input_val">
+                                     <input type="text" placeholder="Non-Profitable" class="form-control" style="border-color: #216582;">
+                                  </div>
+                                   <div class="col-md-2 input_val" style="width: 21%;">
+                                      <input type="text" placeholder="IFSC Code" class="form-control" style="border-color: #216582;">
+                                  </div>
+                      </div>
+
+
+                       <div id="donates" class="container"style="margin-left: 16%;">
+                                 <div class="col-md-3 input_val">
+                                        <input type="text" placeholder="Person Information" class="form-control" style="border-color: #216582;">
