@@ -382,3 +382,13 @@
 </body>
 </html>
 <script>
+$(document).ready(function(){
+  $("#people").hide();
+$("input[type='radio']").change(function(){
+if($(this).val()=="peos")
+{
+$("#people").hide();
+}
+if($(this).val()=="peo")
+{
+$("#people").show(); 
