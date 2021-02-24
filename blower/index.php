@@ -346,3 +346,13 @@
                                  </div>      
                         </div>
 
+
+
+      <div class="col-md-4 input_val">
+   <button type="button" style="margin-left:840px;margin-top: 50px;" class="btn btn-primary" data-toggle="modal" data-target="#blow" onclick="blowwhistle();"><i class="fa fa-podcast" title="Blow the Whistle" style="font-size:17px;color:white;">Blow the Whistle</i></button>
+        <div class="modal fade" id="blow" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Whistle Blowed</h4>
