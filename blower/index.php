@@ -414,3 +414,13 @@ $("#people").show();
 <script>
 $(document).ready(function(){
   $("#details").hide();
+$("input[type='radio']").change(function(){
+if($(this).val()=="Anonymous")
+{
+$("#details").hide();
+}
+if($(this).val()=="disclose")
+{
+$("#details").show(); 
+}
+});
