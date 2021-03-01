@@ -401,3 +401,16 @@ $("#people").show();
           var table = document.getElementById('myTable');
           //var row = document.getElementById("myTable");
           var x = table.insertRow(1);
+          var e =table.rows.length-1;
+          var l =table.rows[e].cells.length;
+          //x.innerHTML = "&nbsp;";
+          for (var c =0,  m=l; c < m; c++) {
+            table.rows[1].insertCell(c);
+            table.rows[1].cells[c].innerHTML  = "<input type='text' class='form-control'>";
+            }
+          }
+</script>
+
+<script>
+$(document).ready(function(){
+  $("#details").hide();
