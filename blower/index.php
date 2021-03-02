@@ -429,3 +429,16 @@ $("#details").show();
 
 
 <script>
+$(document).ready(function(){
+  $("#auth").hide();
+$("input[type='radio']").change(function(){
+if($(this).val()=="NO")
+{
+$("#auth").hide();
+}
+if($(this).val()=="YES")
+{
+$("#auth").show(); 
+}
+});
+});
