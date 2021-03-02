@@ -424,3 +424,8 @@ if($(this).val()=="disclose")
 $("#details").show(); 
 }
 });
+});
+</script>
+
+
+<script>
