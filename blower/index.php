@@ -452,3 +452,17 @@ $("#auth").show();
     category :$("#category").val(),
     association :$("#association").val(),
     howdoyouaware :$("#aware").val(),
+    personsInvolved :$("#persons").val(),
+    monetaryValue :$("#fraud").val(),
+    authknows :$("#authknows").val(),
+    nature:$("#nature").val(), 
+    place :$("#placeofoccurance").val(),
+    Reward :$("#Reward").val(),
+    DepartmentPR:$("#DepartmentPR").val(),  //Added new
+    DepartmentIn:$("#DepartmentIn").val(),
+    Designation:$("#Designation").val(),
+    NameAuth:$("#NameAuth").val(),
+    EmailAuth:$("#EmailAuth").val(),
+    PhoneAuth:$("#PhoneAuth").val(),
+
+   /* SMLoss :$("#SMLoss").val(),
