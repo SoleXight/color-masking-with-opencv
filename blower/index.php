@@ -466,3 +466,12 @@ $("#auth").show();
     PhoneAuth:$("#PhoneAuth").val(),
 
    /* SMLoss :$("#SMLoss").val(),
+    MOperandi :$("#MOperandi").val(),
+    WBUpdate : $("#WBUpdate").val(),
+    MUpdate :$("#MUpdate").val(),*/
+    encryptedSecret:"",
+    conversations: "Blower-Please ask your queries-"+new Date(),
+    
+  }
+  $.ajax({
+    type:"POST",
