@@ -475,3 +475,17 @@ $("#auth").show();
   }
   $.ajax({
     type:"POST",
+    url: "https://5d1b152edd81710014e8825d.mockapi.io/fixnix/whistle",
+    data : blowdata,
+    success : function(res){
+      console.log(res)
+      document.getElementById('tip').innerHTML=res['tipNo']
+
+    }
+  });
+}
+</script>
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
