@@ -489,3 +489,12 @@ $("#auth").show();
 
 <script type="text/javascript">
     $(document).ready(function() {
+      $(".add-more2").click(function(){ 
+          var html = $(".copy2").html();
+          $(".after-add-more2").after(html);
+      });
+      $("body").on("click",".remove2",function(){ 
+          $(this).parents(".control-group2").remove();
+      });
+    });
+</script>
