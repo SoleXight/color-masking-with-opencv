@@ -509,3 +509,10 @@ $("#auth").show();
       $("body").on("click",".remove",function(){ 
           $(this).parents(".control-group").remove();
       });
+    });
+</script>
+
+
+<!--add and remove in your Details-->
+  <script type="text/javascript">
+    $(document).ready(function() {
