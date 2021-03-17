@@ -535,3 +535,10 @@ $("input[type='radio']").change(function(){
 if($(this).val()=="donate")
 {
   $("#donates").hide();
+$("#peoples").show();
+}
+if($(this).val()=="self")
+{
+  $("#peoples").hide();
+$("#donates").show(); 
+}
