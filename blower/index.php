@@ -527,3 +527,11 @@ $("#auth").show();
 </script>
 
 <!-- Donate to NGO --->
+<script>
+$(document).ready(function(){
+   $("#peoples").hide();
+   $("#donates").hide();
+$("input[type='radio']").change(function(){
+if($(this).val()=="donate")
+{
+  $("#donates").hide();
