@@ -516,3 +516,14 @@ $("#auth").show();
 <!--add and remove in your Details-->
   <script type="text/javascript">
     $(document).ready(function() {
+      $(".add-more3").click(function(){ 
+          var html = $(".copy6").html();
+          $(".after-add-more3").after(html);
+      });
+      $("body").on("click",".remove3",function(){ 
+          $(this).parents(".control-group3").remove();
+      });
+    });
+</script>
+
+<!-- Donate to NGO --->
