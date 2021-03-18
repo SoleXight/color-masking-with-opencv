@@ -9,3 +9,14 @@
 	"authorities_know":"yes",
 	"nature":"worst",
 	"place":"text",
+	"rewardType":"self"
+}
+
+{
+	"company" : "",
+	"incident" : "",
+	"association" : "",
+	"aware" : "",
+	"fraud" : "",
+	"personsInvolved":"",
+	"periodofincident" : "",
