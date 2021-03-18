@@ -20,3 +20,9 @@
 	"fraud" : "",
 	"personsInvolved":"",
 	"periodofincident" : "",
+	"authorities_aware" : "",
+	"nature" : "",
+	"place" : "",
+	"attachment" : "",
+	"rewardType" : ""
+}
