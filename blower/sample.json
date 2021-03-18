@@ -1,0 +1,11 @@
+
+{
+	"companyName": "Fixnix",
+	"typeOfIncidient": "Most",
+	"association":"employye",
+	"howwara": "Know it",
+	"personsInvolved": ["Me","you"],
+	"monetary_value":"text",
+	"authorities_know":"yes",
+	"nature":"worst",
+	"place":"text",
