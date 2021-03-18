@@ -542,3 +542,15 @@ if($(this).val()=="self")
   $("#peoples").hide();
 $("#donates").show(); 
 }
+
+});
+});
+</script>
+
+
+<script type="text/javascript">
+function CheckColors(val){
+ var element=document.getElementById('color');
+ if(val=='pick a color'||val=='Other')
+   element.style.display='block';
+ else  
