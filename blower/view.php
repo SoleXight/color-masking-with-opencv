@@ -45,3 +45,13 @@
         $("#association").text(data.association)
         $("#howdoyouaware").text(data.howdoyouaware)
         $("#personsInvolved").text(data.personsInvolved)
+        $("#monetaryValue").text(data.monetaryValue)
+        $("#authknows").text(data.authknows)//auth
+        $("#nature").text(data.nature)
+        $("#place").text(data.place)
+        $("#Reward").text(data.Reward)
+        $("#DepartmentPR").text(data.DepartmentPR)
+        $("#DepartmentIn").text(data.DepartmentIn)
+        $("#Designation").text(data.Designation)
+        $("#NameAuth").text(data.NameAuth)
+        $("#EmailAuth").text(data.EmailAuth)
