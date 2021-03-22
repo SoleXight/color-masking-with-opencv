@@ -67,3 +67,10 @@
         }
         console.log(conversations)
         $(".conversations").html(conversations?conversations:"<p> Please start the conversation</p>")
+      }
+    })
+     $.ajax({
+      url:"http://5d1b152edd81710014e8825d.mockapi.io/fixnix/whistle/1/investigator/"+tipNo,
+      method:"GET",
+      type:"json",
+      success:function(data){
