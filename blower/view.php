@@ -74,3 +74,17 @@
       method:"GET",
       type:"json",
       success:function(data){
+        tip_data = data;
+        var messages_array = data.conversations.split("##")
+        var messages_list = []
+        for(var i =0 ;i<messages_array.length;i++){
+          var result = messages_array[i].split("-")
+          var datalist ={
+            user_type:result[0],
+            message: result[1],
+            time: result[2]
+          }
+          messages_list.push(datalist)
+        }
+        $(".container").removeClass('hide')
+        $("#WBUpdate").text(data.WBUpdate)
