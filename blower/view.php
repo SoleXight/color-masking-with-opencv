@@ -101,3 +101,16 @@
     var exists = tip_data.conversations.split("##")
     if(exists.length==0){
       tip_data.conversations = tip_data.conversations 
+    }else if(exists.length>0){
+      tip_data.conversations = tip_data.conversations +"##"+text
+    }
+    $.ajax({
+      url:"https://5d1b152edd81710014e8825d.mockapi.io/fixnix/whistle/"+tip_no,
+      method:"PUT",
+      type:"json",
+      data:tip_data,
+      success:function(data){
+        $("#query").val("");
+        conversations+="<p class='labelt investigator'> Investigator "+ message  +"<span style='font-size:10px; float: right'>" + moment(time).fromNow() + "</span></p>"
+        $(".conversations").html(conversations?conversations:"<p> Please start the conversation</p>")
+      }
