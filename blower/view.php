@@ -114,3 +114,11 @@
         conversations+="<p class='labelt investigator'> Investigator "+ message  +"<span style='font-size:10px; float: right'>" + moment(time).fromNow() + "</span></p>"
         $(".conversations").html(conversations?conversations:"<p> Please start the conversation</p>")
       }
+    })
+  }
+  setInterval(()=>{
+    var tip = $("input").val();
+    if(tip){
+      clickt()
+    }
+  },2000)
