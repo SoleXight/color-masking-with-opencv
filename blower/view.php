@@ -88,3 +88,16 @@
         }
         $(".container").removeClass('hide')
         $("#WBUpdate").text(data.WBUpdate)
+        $("#MUpdate").text(data.MUpdate)
+        $("#encryptedSecret").text(data.encryptedSecret)
+        
+      }
+    })
+  }
+  function messagesent(){
+    var message = $("#query").val();
+    var time = new Date()
+    var text = "Blower-"+message+"-"+time
+    var exists = tip_data.conversations.split("##")
+    if(exists.length==0){
+      tip_data.conversations = tip_data.conversations 
