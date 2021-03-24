@@ -145,3 +145,8 @@
   .collapsible {
   
   cursor: pointer;
+  width: 9%;
+  border: none;
+  text-align: right;
+  outline: none;
+  font-size: 15px;
