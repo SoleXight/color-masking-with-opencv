@@ -122,3 +122,10 @@
       clickt()
     }
   },2000)
+</script>
+<style>
+  
+  .hide{
+    display: none;
+  }
+  .investigator {
