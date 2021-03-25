@@ -175,3 +175,18 @@
         <input type="text" name="search" id="search" class="form-control col-md-3" placeholder="Enter the Tip Number">
         
       </div>
+      <div class="col-md-2">
+        
+        <input type="button" id="submit" onclick="clickt()" style="background-color:#3e8e9d;" class="btn btn-danger" value="View Tip Details" style="">
+      </div>
+    </div>
+  </div><br><hr>
+
+
+  <div class="container hide" id="data" style="border:0px solid #C3C8C6;margin-left: 180px;"  ><br>
+     <!-- <div class="container hide" id="data" style="border:1px solid #C3C8C6; margin-left: -18px; height: 90px;"> -->
+
+      <div class="row form-group">        
+        <div class="col-md-2">  
+          <label style="font-size: 14px;margin-left: 90px;">Tip No</label><br>
+             <span id="tipNo" class="form-control" style="font-size: 13px;margin-left: 90px;"></span> 
