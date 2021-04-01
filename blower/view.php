@@ -271,3 +271,17 @@
 
         <div class="col-md-5">
           <label style="font-size: 14px;margin-left: 90px;">Reward</label><br>
+          <span id="Reward" class="form-control" style="font-size: 13px; margin-left: 90px;"></span>
+        </div>
+    </div><br>
+
+
+   
+
+
+    <div class="row form-group" class="container hide" id="authknowsarea">
+          <div class="col-md-3">
+          <label style="font-size: 14px;margin-left: 90px;">Authority's Name</label><br>
+          <span id="NameAuth" class="form-control" style="font-size: 13px;margin-left: 90px;"></span>
+           </div>
+          <div class="col-md-4">
