@@ -305,3 +305,14 @@
           </div>
           <br><br>
          <div class="form-group">
+        <label style="font-size: 15px; margin-left:75px;" class="col-md-10">Management Update:</label>
+        <div class="col-xs-8">
+          <span id="MUpdate" class="form-control" style="height: 150px;width: 944px;margin-left: 82px;"></span>
+        <!-- <textarea type="text"  class="form-control" id="" style=""></textarea> -->
+       <br><br><br>
+        </div>
+
+        
+  </div>
+
+    <button class="collapsible"><img src="histroy.png" style="width:40px;margin-top:300px; position: absolute; z-index: 101; left: 400px;"><b>Conversation</b></button>
