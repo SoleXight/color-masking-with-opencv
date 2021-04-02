@@ -292,3 +292,16 @@
           <label style="font-size: 14px;margin-left: 90px;">Authority's Phone No.</label><br>
           <span id="PhoneAuth" class="form-control" style="font-size: 13px;margin-left: 90px;"></span>
          </div>
+
+   </div>
+          <br>
+          <br>
+          <div class="form-group">
+             <label style="font-size: 15px; margin-left:75px;" class="col-md-10">WhistleBlower Update:</label> 
+                <div class="col-md-8 " >
+              <!-- <textarea type="text" class="form-control" placeholder="Give WhistleBlower on update" style="height: 150px;width: 940px; margin-left: 84px;"> </textarea> -->
+             <span id="WBUpdate" class="form-control" style="height: 150px;width: 940px;margin-left: 84px;"></span>    
+            </div>
+          </div>
+          <br><br>
+         <div class="form-group">
