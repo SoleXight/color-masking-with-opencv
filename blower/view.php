@@ -343,3 +343,12 @@
           </div>
           <div class="col-md-3"><input type="button" onclick="messagesent()" name="" class="btn btn-primary" value="Send Message" style="background-color: #2E9461;"></div>
                 </div>
+              </div>
+          </div>
+        </div> 
+             
+
+             <div class="img" style="position: absolute;  margin-left: 1070px; margin-top: 40px;">
+          
+            <a href="" style="text-decoration: underline;" data-toggle="modal" data-target="#myModal"><i class='fa fa-comments' style="font-size: 48px;margin-left: 200%;color:  #2E9461;" title="Review"></i></a>
+          </div>
