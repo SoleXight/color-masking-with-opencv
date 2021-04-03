@@ -316,3 +316,15 @@
   </div>
 
     <button class="collapsible"><img src="histroy.png" style="width:40px;margin-top:300px; position: absolute; z-index: 101; left: 400px;"><b>Conversation</b></button>
+
+    <div id="demo" class="collapse">
+    <div style="min-height: 200px; max-height: 80px; overflow: auto;border:1px solid #C3C8C6;width: 970px; margin-left: 90px;"><h2>Conversations History</h2>
+            <div class="conversations"></div>
+        </div>
+     </div>
+
+   <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+            
+              <!-- Modal content-->
+              <div class="modal-content">
