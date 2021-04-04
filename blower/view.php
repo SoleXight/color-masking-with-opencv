@@ -352,3 +352,15 @@
           
             <a href="" style="text-decoration: underline;" data-toggle="modal" data-target="#myModal"><i class='fa fa-comments' style="font-size: 48px;margin-left: 200%;color:  #2E9461;" title="Review"></i></a>
           </div>
+
+
+</div>
+
+
+
+
+
+</body> 
+
+</html>
+<script type="text/javascript">
