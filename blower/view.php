@@ -364,3 +364,9 @@
 
 </html>
 <script type="text/javascript">
+
+
+    $(document).ready(function() {
+
+
+      $(".add-more").click(function(){ 
