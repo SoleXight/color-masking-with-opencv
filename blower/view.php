@@ -404,3 +404,10 @@ for (i = 0; i < coll.length; i++) {
 <!-- <script>
 $(document).ready(function(){
   $("#authknowsarea").hide();
+$("input[type='text']").change(function(){
+if($(this).val()=="NO")
+{
+$("#authknowarea").hide();
+}
+if($(this).val()=="YES")
+{
