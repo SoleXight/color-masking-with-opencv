@@ -411,3 +411,8 @@ $("#authknowarea").hide();
 }
 if($(this).val()=="YES")
 {
+$("#authknowsarea").show(); 
+}
+});
+});
+ -->
