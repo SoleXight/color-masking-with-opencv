@@ -34,3 +34,12 @@
     border-style: solid;
     border-color: #036775;
     border-radius: 8px;
+    height:calc(100vh - 12em);;
+    width:350px;
+    display: table-cell; vertical-align: middle;text-align:center;
+    vertical-align: center;
+
+}
+
+html,body{
+  overflow: hidden;
