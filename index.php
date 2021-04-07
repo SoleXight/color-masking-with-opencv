@@ -22,3 +22,15 @@
             window.location.href = './blower/index.php';
          }, 6000);
       
+
+    </script>
+    <style type="text/css">
+    	body, html, #wrapper { width: 100%; height: 100% }
+        #wrapper { display: table }
+        #main { display: table-cell; vertical-align: middle;text-align:center }
+
+
+.center_b{
+    border-style: solid;
+    border-color: #036775;
+    border-radius: 8px;
