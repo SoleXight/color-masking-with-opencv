@@ -43,3 +43,12 @@
 
 html,body{
   overflow: hidden;
+  overflow-x: hidden;
+  background-color: #EAEDED;
+}
+
+
+a{
+  font-size: 28px;
+  color: #4C0EA0;
+}
