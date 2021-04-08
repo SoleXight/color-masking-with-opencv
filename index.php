@@ -52,3 +52,9 @@ a{
   font-size: 28px;
   color: #4C0EA0;
 }
+
+
+.center-div
+{
+  position: absolute;
+  margin: auto;
