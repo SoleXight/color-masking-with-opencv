@@ -86,3 +86,10 @@ a{
   border-style: solid;
   border-color: red;
   margin: auto;
+  top: 350;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: auto;
+  height: 100px;
+  display: flex; 
