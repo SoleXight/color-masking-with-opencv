@@ -58,3 +58,16 @@ a{
 {
   position: absolute;
   margin: auto;
+  top: -30;
+  right: 0;
+  bottom: 0;
+  left: -110;
+  width: 100px;
+  height: 100px;
+  display: flex; 
+  border-radius: 3px;
+}
+
+.btm{
+ position: absolute;
+  margin: auto;
