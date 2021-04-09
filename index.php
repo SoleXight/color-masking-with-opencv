@@ -71,3 +71,18 @@ a{
 .btm{
  position: absolute;
   margin: auto;
+  
+  width: 100px;
+  height: 100px;
+  display:inline;
+  border-radius: 3px;
+  z-index: 1;
+}
+
+
+.aft_img{
+  position: absolute;
+  width: calc(100vh-25em);
+  border-style: solid;
+  border-color: red;
+  margin: auto;
