@@ -93,3 +93,15 @@ a{
   width: auto;
   height: 100px;
   display: flex; 
+
+}
+
+#child {
+    line-height: 50px;
+    vertical-align: center;
+    padding: 12px 120px 180px 120px;
+}
+
+
+.navbar-expand-lg {
+  background-color: #B0BCAF;
