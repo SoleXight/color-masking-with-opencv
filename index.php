@@ -105,3 +105,20 @@ a{
 
 .navbar-expand-lg {
   background-color: #B0BCAF;
+
+}
+
+
+
+    </style>
+  </head>
+  <body>
+
+   
+   
+<nav class="navbar navbar-expand-lg navbar-light bg-dark" style="height: 70px; background-color: #B0BCAF;">
+  <a class="navbar-brand" href="#">
+    <img src="fixnix.png" width="100" height="70" class="d-inline-block align-top" alt="">
+    <a class="navbar-brand" href="#" style="color:#FFFFFF;"><b>Whistle Blower</b></a>
+
+   </a>
