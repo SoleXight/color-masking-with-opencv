@@ -122,3 +122,12 @@ a{
     <a class="navbar-brand" href="#" style="color:#FFFFFF;"><b>Whistle Blower</b></a>
 
    </a>
+
+    
+
+  </nav>
+
+
+<center>
+ <div class="center-div">
+   <img src="LG3.png" style="height: 180px; width: 200px; left: 240px">
