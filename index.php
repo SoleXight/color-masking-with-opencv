@@ -131,3 +131,7 @@ a{
 <center>
  <div class="center-div">
    <img src="LG3.png" style="height: 180px; width: 200px; left: 240px">
+
+   <h6 style="position: fixed; margin-top: 170px; font-weight: bolder; font-size:26px;">Whistle Blower</h6>
+
+  <h6 style="position: fixed; margin-top: 200px; font-weight: bolder; font-size: 21px; color: #690B3D">Powered By Corda</h6>
