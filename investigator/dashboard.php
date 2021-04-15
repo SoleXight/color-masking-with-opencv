@@ -34,3 +34,14 @@
 				<option value="">Select Company</option>
 				<option value="FixNix">FixNix</option>
 				<option value="Pied Piper">Pied Piper</option>
+				<option value= "Hooli">Hooli</option>
+			</select></div>
+<br><br><br><br><hr/> -->
+	<div class="form-group recordslist hide">
+		
+
+
+    <table class="table table-stripped">
+			<thead>
+				<th>Tip No</th>
+				<th>Incident</th>
