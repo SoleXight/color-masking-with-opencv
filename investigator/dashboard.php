@@ -45,3 +45,16 @@
 			<thead>
 				<th>Tip No</th>
 				<th>Incident</th>
+				<th>Monetory value of Fraud</th>
+				<th>Place of Occarance</th>
+				<th>Reward</th>
+			</thead>
+			<tbody id="tbody">
+			</tbody>
+		</table>
+		
+	</div>
+	<div>
+		<p id ="norecords" class= "hide">No records found !!!</p>
+	</div>
+</div>
