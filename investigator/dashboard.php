@@ -80,3 +80,12 @@ function onChange() {
            	$(".recordslist").addClass("hide");
            	return
            }
+           for(var i=0;i<data.length;i++)
+           {
+             var Html="<tr>"+
+                "<td>"+data[i].tipNo+"</td>"+
+                "<td>"+data[i].avatatypeOfIncidientr+"</td>"+
+                "<td>"+data[i].monetaryValue+"</td>"+
+                "<td>"+data[i].place+"</td>"+
+                "<td>"+data[i].rewardType+"</td>"+                
+            "</tr>";
