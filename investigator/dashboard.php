@@ -126,3 +126,13 @@ Highcharts.chart('container', {
     },
     series: [{
         name: 'company',
+        colorByPoint: true,
+        data: [{
+            name: 'Fixnix',
+            y: 61.41,
+            sliced: true,
+            selected: true
+        }, {
+            name: 'Pied Piper',
+            y: 11.84
+        }, {
