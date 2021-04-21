@@ -136,3 +136,11 @@ Highcharts.chart('container', {
             name: 'Pied Piper',
             y: 11.84
         }, {
+            name: 'Hooli',
+            y: 10.85
+        }, ]
+    }]
+});  
+</script>
+
+</html>
