@@ -2,4 +2,4 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initia
+  <meta name="viewport" content="width=device-width, initial-sca
