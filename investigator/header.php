@@ -9,4 +9,4 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 </head>
 <body>
-<nav class="navbar navbar-inverse navbar-fixed-t
+<nav class="navbar navbar-inverse navbar-fixed-top" style="ba
