@@ -9,4 +9,4 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 </head>
 <body>
-<nav class="navbar navbar-inverse navbar-fixed-top" style="background: #af0404; hei
+<nav class="navbar navbar-inverse navbar-fixed-top" style="background: #af0404; height: 70px
