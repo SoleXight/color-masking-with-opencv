@@ -15,4 +15,4 @@
       <a class="navbar-brand" href="dashboard.php"><img src="whistle.png" style="height: 70px;width: 70px;margin-top: -20px;" title="DashBoard"> <a href="" ><label style=" font-size: 12px;color:#ffffff;margin-top: 40px;">Powered By Corda</label></a>
     </div>
     <ul class="nav navbar-nav" style="float: right;">
-      <li><a href="index.php"><i class='fas fa-male' title="Investigator" style='font-size:36px;color: white;'></i><label style="font-size: 15px; color: white; margin-top: 7px; font-family: 'Roboto', sans-serif;margin-left: 20px;">Investigator</label>
+      <li><a href="index.php"><i class='fas fa-male' title="Investigator" style='font-size:36px;color: white;'></i><label style="font-size: 15px; color: white; margin-top: 7px; font-family: 'Roboto', sans-serif;margin-left: 20px;">Investigator</label></a></l
