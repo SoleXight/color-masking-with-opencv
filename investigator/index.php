@@ -18,3 +18,11 @@
   	var conversations = ''
 	function clickt(){
 		
+		var tipNo = $("input").val();
+		tip_no = tipNo
+		$.ajax({
+			url:"https://5d1b152edd81710014e8825d.mockapi.io/fixnix/whistle/"+tipNo,
+			method:"GET",
+			type:"json",
+			success:function(data){
+				tip_data = data;
