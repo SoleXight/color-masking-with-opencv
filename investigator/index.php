@@ -33,3 +33,16 @@
 					var datalist ={
 						user_type:result[0],
 						message: result[1],
+						time: result[2]
+					}
+					messages_list.push(datalist)
+				}
+				$(".container").removeClass('hide')
+				$("#tipNo").text(data.tipNo)
+				$("#createdAt").text(data.createdAt)
+				$("#companyName").text(data.companyName)
+				$("#category").text(data.category)
+				$("#association").text(data.association)
+				$("#howdoyouaware").text(data.howdoyouaware)
+				$("#personsInvolved").text(data.personsInvolved)
+				$("#monetaryValue").text(data.monetaryValue)
