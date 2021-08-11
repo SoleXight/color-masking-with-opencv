@@ -105,3 +105,13 @@
 	}
 	.investigator {
 		color: #000;
+	}
+	.blower{
+		color: #8ac6d1;
+	}
+	.message{
+		font-size: 11px;
+	}
+	.labelt{
+		font-size: 13px;
+	}
