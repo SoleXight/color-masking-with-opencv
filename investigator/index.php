@@ -95,3 +95,13 @@
 		if(tip){
 			clickt()
 		}
+	},2000)
+    
+</script>
+<style>
+	
+	.hide{
+		display: none;
+	}
+	.investigator {
+		color: #000;
