@@ -125,3 +125,12 @@
   border: none;
   text-align: right;
   outline: none;
+  font-size: 15px;
+  background: #FAFAFA;
+
+}
+
+
+.content {
+  display: none;
+  overflow: hidden;
