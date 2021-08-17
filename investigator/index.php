@@ -142,3 +142,10 @@
 <?php include "header.php"; ?>
 
 <div style="margin-left: 140px;">
+<div class="container" style="margin-top: 150px;margin-left: 35%;">
+	
+	<div class="form-group" style="margin-left: -10px;">
+		<div class="col-md-3">
+			<input type="text" name="search" id="search" class="form-control col-md-3" placeholder="Enter the Tip Number">
+			
+		</div>
