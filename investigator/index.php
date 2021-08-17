@@ -218,3 +218,10 @@
 		   	<div class="row form-group">
 			
 			<div class="col-md-5">
+				<label style="font-size: 14px;margin-left: 90px;">Department</label><br>
+				<span id="DepartmentPR" class="form-control"  style="font-size: 13px;margin-left: 90px;"></span>
+			</div>
+			<div class="col-md-5">
+				<label style="font-size: 14px;margin-left: 90px;">Place</label><br>
+				<span id="place" class="form-control" style="font-size: 13px; margin-left: 90px;"></span>
+			</div>
