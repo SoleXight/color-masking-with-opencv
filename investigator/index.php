@@ -149,3 +149,13 @@
 			<input type="text" name="search" id="search" class="form-control col-md-3" placeholder="Enter the Tip Number">
 			
 		</div>
+		<div class="col-md-2">
+			
+			<input type="button" id="submit" onclick="clickt()" style="background-color: red;" class="btn btn-danger" value="View Tip Details" style="">
+		</div>
+	</div>
+</div><br>
+</div><hr>
+
+<div style="margin-left: 150px;">
+<div class="container hide" id="data" style="border:0px solid #C3C8C6;margin-left: 180px;"  ><br>
