@@ -236,3 +236,10 @@
 
 
 			<!--<div class="col-md-5">
+				<label style="font-size: 14px;margin-left: 90px;">Persons Involved</label><br>
+				<span id="personsInvolved" class="form-control" style="font-size: 13px; margin-left: 90px;"></span>
+			</div>-->
+			<div class="col-md-5">
+				<label style="font-size: 14px;margin-left: 90px;">Authorities Know</label><br>
+				<span id="authknows" class="form-control" style="font-size: 13px;margin-left: 90px;"></span>
+			</div>
