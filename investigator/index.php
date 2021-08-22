@@ -256,3 +256,13 @@
 			<div class="col-md-3">
 				 <label style="font-size: 14px;margin-left: 90px;">Authority's Name</label><br>
 				<span id="NameAuth" class="form-control" style="font-size: 13px;margin-left: 90px; "></span>
+			</div>
+          <div class="col-md-4">
+			<label style="font-size: 14px;margin-left: 90px;">Authority's Email_ID</label><br>
+				<span id="EmailAuth" class="form-control" style="font-size: 13px;margin-left: 90px; "></span>
+			</div>
+			<div class="col-md-3">
+			<label style="font-size: 14px;margin-left: 90px;">Authority's Phone No.</label><br>
+				<span id="PhoneAuth" class="form-control" style="font-size: 13px;margin-left: 90px; "></span>		
+             </div>
+			
