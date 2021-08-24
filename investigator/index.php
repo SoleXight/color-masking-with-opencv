@@ -266,3 +266,12 @@
 				<span id="PhoneAuth" class="form-control" style="font-size: 13px;margin-left: 90px; "></span>		
              </div>
 			
+	</div>
+           
+</div>
+
+  <button class="collapsible" ><img src="histroy.png" style="height: 40px; width: 40px;margin-left: 70PX;"><b>Conversation</b></button>
+  <div id="demo" class="collapse">
+  <div style="min-height: 200px; max-height: 100px; overflow: auto;border:1px solid #C3C8C6;width: 970px; margin-left: 90PX;"><h2>Conversations History</h2>
+        	<div class="conversations"></div>
+      
