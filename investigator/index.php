@@ -288,3 +288,16 @@
    </div>
 
 </div><br>
+
+
+</div>-->
+</div>
+</div>
+<hr>
+
+<div class="container hide" style="border:0px solid #C3C8C6; margin-left:-70px; ">
+
+	<h3 style="margin-left:470px;"><strong>Investigation Details</strong></h3>
+	<br>
+	</div>
+	<hr>
