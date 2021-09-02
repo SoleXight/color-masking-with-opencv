@@ -284,3 +284,7 @@
   <div style="min-height: 300px; max-height: 300px; overflow: auto;border:1px solid #C3C8C6;width: 950px;"><h2>Histroy</h2>
         	<div class="conversations"></div>
       
+      </div>
+   </div>
+
+</div><br>
