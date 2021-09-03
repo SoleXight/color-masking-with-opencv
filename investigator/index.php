@@ -326,3 +326,10 @@
 			     <span id="DepartmentIn" class="form-control" style="font-size: 13px; "></span>
 			    </div>
 			  
+			 <div class="input-group control-group after-add-more">
+			          <div class="input-group-btn"> 
+			            <button class="btn btn-success add-more" type="button" style="margin-top: 24px;margin-left: 60px;"><i class="glyphicon glyphicon-plus"></i></button>
+			          </div>
+			        </div>
+
+			                                            
