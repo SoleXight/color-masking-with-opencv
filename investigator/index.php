@@ -301,3 +301,14 @@
 	<br>
 	</div>
 	<hr>
+
+	 <div class="container hide" style="margin-left: -90px;margin-left: 230px;">
+			      <label style="font-size: 15px;margin-top: 20px; margin-left:10px;" class="col-xs-2">People Involved:</label>
+			  
+
+			 <div class="container hide" style="border:0px solid #C3C8C6; height: 900px; position: absolute; border-collapse:separate; ">
+				 <div id="people1" class="container" style="margin-left: 11%;">
+				 	<br>
+			   
+			    <div class="col-md-3 input_val">
+			      <label style="font-size: 13px;">Name:</label>
