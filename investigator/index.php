@@ -312,3 +312,10 @@
 			   
 			    <div class="col-md-3 input_val">
 			      <label style="font-size: 13px;">Name:</label>
+			     <!--<input type="text" placeholder="Name" class="form-control" id="persons" style="border-color: #216582;" >-->
+			      <span id="personsInvolved" class="form-control" style="font-size: 13px; "></span>
+			    </div>
+			    <div class="col-md-4 input_val">
+			      <label style="font-size: 13px;">Designation:</label>
+			      <!--<input type="text" placeholder="Designation" class="form-control" style="border-color: #216582;">-->
+			      <span id="Designation" class="form-control" style="font-size: 13px; "></span>
