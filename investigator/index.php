@@ -353,3 +353,10 @@
 			      <input type="text" placeholder="Department" class="form-control" style="border-color: #216582;">
 			    </div>
 			              <button class="btn btn-danger remove" type="button" style="margin-top: 24px;margin-left: 60px;"><i class="glyphicon glyphicon-remove"></i></button>
+			          </div>
+			        </div>
+			</div><br><br>
+			                                          <!--Edit image png section-->
+
+			            <!-- <div class="">
+			        	<div class="">
