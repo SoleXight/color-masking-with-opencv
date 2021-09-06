@@ -342,3 +342,14 @@
 			            <!-- <input type="text" name="addmore[]" class="form-control" placeholder="Enter Name Here"> -->
 			            <div class="col-md-3 input_val">
 			      <label style="font-size: 13px;">Name:</label>
+			      <input type="text" placeholder="Name" class="form-control" id="persons" style="border-color: #216582;">
+			    </div>
+			    <div class="col-md-4 input_val">
+			      <label style="font-size: 13px;">Designation:</label>
+			      <input type="text" placeholder="Designation" class="form-control" style="border-color: #216582;">
+			    </div>
+			    <div class="col-md-3 input_val" style="width: 29%;">
+			      <label style="font-size: 13px;">Department:</label>
+			      <input type="text" placeholder="Department" class="form-control" style="border-color: #216582;">
+			    </div>
+			              <button class="btn btn-danger remove" type="button" style="margin-top: 24px;margin-left: 60px;"><i class="glyphicon glyphicon-remove"></i></button>
