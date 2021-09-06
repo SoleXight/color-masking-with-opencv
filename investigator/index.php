@@ -333,3 +333,12 @@
 			        </div>
 
 			                                            
+			       
+
+
+
+			 <div class="copy hide">
+			          <div class="container control-group input-group" style="margin-left: -14px;">
+			            <!-- <input type="text" name="addmore[]" class="form-control" placeholder="Enter Name Here"> -->
+			            <div class="col-md-3 input_val">
+			      <label style="font-size: 13px;">Name:</label>
