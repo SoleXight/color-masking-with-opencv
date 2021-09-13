@@ -370,3 +370,10 @@
 
 			       <label style="font-size: 14px;">Reported Monetory</label><br>
 			       <span id="monetaryValue" class="form-control" style="font-size: 13px;"></span>   
+			      <!--<select class="form-control" id="fraud" style="border-color: #216582;">
+			        <option>--Select--</option>
+			        <option>$0 to $100,000</option>
+			        <option>$100,000 to 200,000</option>
+			        <option>$200,000 to $300,000</option>
+			        <option>$300,000 to $400,000</option>
+			        <option>$400,000 to $500,000</option>
