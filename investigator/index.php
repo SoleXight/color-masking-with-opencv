@@ -377,3 +377,13 @@
 			        <option>$200,000 to $300,000</option>
 			        <option>$300,000 to $400,000</option>
 			        <option>$400,000 to $500,000</option>
+			      </select>-->
+			    </div>
+			     
+			     <div class="col-md-4 input_val"style="margin-left: 10px;width: 32%;">
+					<label style="font-size: 14px;">Suspected Monetory loss</label><br>
+				    <input type="text" id="SMLoss" class="form-control" style="border-color: #216582;">
+					</div>
+
+					<div class="col-md-2 input_val" style="width: 29%;">
+					<label style="font-size: 14px;">Modus Operandi</label><br>  
