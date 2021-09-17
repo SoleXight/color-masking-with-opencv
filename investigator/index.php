@@ -387,3 +387,11 @@
 
 					<div class="col-md-2 input_val" style="width: 29%;">
 					<label style="font-size: 14px;">Modus Operandi</label><br>  
+			      <select class="form-control " id="MOperandi" style="border-color: #216582;">
+			        <option>--Select--</option>
+			        <option>Cash</option>
+			        <option>Inperson</option>
+			        <option>Not Applicable</option>
+
+			      </select>
+					
