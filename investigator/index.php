@@ -399,3 +399,12 @@
 
 			   </div>     
 			</div>
+
+			 <div class="container hide"><br>
+			</div>
+			<div class="form-group">
+				   <label style="font-size: 15px; margin-top: 10px; margin-right: 40px;" class="col-xs-1">WhistleBlower Update:</label> 
+			      	<div class="col-md-5" style="width: 72%;height: 50px;">
+				    <textarea type="text" class="form-control" id="WBUpdate" placeholder="Give WhistleBlower on update" style="height: 150px;border-color: #216582;width: 975px;"> </textarea>
+					</div>
+			    </div>
