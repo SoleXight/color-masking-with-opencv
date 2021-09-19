@@ -408,3 +408,15 @@
 				    <textarea type="text" class="form-control" id="WBUpdate" placeholder="Give WhistleBlower on update" style="height: 150px;border-color: #216582;width: 975px;"> </textarea>
 					</div>
 			    </div>
+
+			<!-- <div class="">
+			        	<div class="">
+			            <a href=""><img src="send.png"style="height: 40px;width: 40px; margin-left: 1195px; margin-top: 10px"></a> 
+			        </div></div>-->
+
+
+			    <br><br>
+
+			   
+			    <br><br>
+			    <br><br><br><br>
