@@ -420,3 +420,13 @@
 			   
 			    <br><br>
 			    <br><br><br><br>
+			  
+			   <div class="form-group">
+				   <label style="font-size: 15px;" class="col-xs-1">Management Update </label>
+					<div class="col-md-8" style="width: 72%;height: 50px;">
+					<textarea type="text" class="form-control" id="MUpdate" placeholder="Ask WhistleBlower for more Info" style="height: 150px;border-color: #216582;width:975px;margin-left: 40px;"> </textarea>	
+					
+					</div><br/><br/><br/><br/>
+			      <!--  <div class="">
+			        	<div class="">
+			            <a href=""><img src="send.png"style="height: 40px;width: 40px; margin-left: 1170px; margin-top: -15px"></a> 
