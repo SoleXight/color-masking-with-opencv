@@ -430,3 +430,19 @@
 			      <!--  <div class="">
 			        	<div class="">
 			            <a href=""><img src="send.png"style="height: 40px;width: 40px; margin-left: 1170px; margin-top: -15px"></a> 
+			        </div></div>-->
+					<!-- This is the reviewer added contents. Rewards Section -->
+			      
+						
+			          <!--    <div class="form-group">
+			              <label style="font-size: 15px; margin-top:70px;" class="col-xs-1 ">Rewards </label>
+			              <br/><br/><br/><br/>
+
+			               <div class="col-xs-8">
+			               <input type="radio" name="aware" value="peos" checked="checked"style="margin-left: 100px;">Gift &nbsp;&nbsp;&nbsp;
+			               <input type="radio" name="aware" value="peo" style="margin-left: 240px;">Wallet or Bank
+			        
+					    </div>
+					  </div> -->
+					
+			<!--  <div id="people" class="container" style="margin-left: 16%;">
