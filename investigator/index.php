@@ -505,3 +505,9 @@
 			          
 			          <button type="button" class="close" data-dismiss="modal">&times;</button>
 			        </div>
+			        
+			        <!-- Modal body -->
+			        <div class="modal-body">
+			         <h3 class="modal-title" style="margin-left: 130px;">Succssfully Updated!</h3>
+			        </div>
+			        
