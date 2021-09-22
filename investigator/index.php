@@ -471,3 +471,18 @@
 					 <textarea type="text" class="form-control" placeholder="" style="height: 150px;border-color: #216582;width: 975px;margin-left: 40px;"> </textarea>
 
 			         </div> <br><br> <br><br><br><br> 
+			          <br><br><br><br> 
+			           
+			           
+
+
+
+				     <label style="font-size: 15px;" class="col-xs-1">Re-Investigate </label>
+					 <div class="col-md-8" style="width: 72%;height: 50px;">
+					 <textarea type="text" class="form-control" placeholder="" style="height: 150px;border-color: #216582;width: 975px;margin-left: 40px;"> </textarea>
+			         </div>
+			        
+
+			          <div class="col-xs-2" style="margin-left: 1150px;margin-top: -190px;">
+				      <label aria-hidden="true">Artifacts<i class="btn btn-danger btn-block"><span class="glyphicon glyphicon-paperclip"></span></i>
+				        <input type="file" style="display:none" /></label>
