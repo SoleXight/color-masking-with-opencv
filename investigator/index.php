@@ -457,3 +457,17 @@
 			    <div class="col-md-3 input_val" style="margin-right: 500px;">
 			       <input type="text" placeholder="Wallet" class="form-control" style="border-color: #216582;margin-left: 300px">
 			    </div>
+
+			    <div class="col-md-3"><button class="btn btn-danger" style="margin-left:-6%;margin-top:10px; width:50%; position: absolute;">Thanks</button>
+					</div>
+			  </div>
+     <br><br>
+
+
+			   
+			       
+				     <label style="font-size: 15px;" class="col-xs-1">Resolution </label>
+					 <div class="col-md-8" style="width: 72%;height: 50px;">
+					 <textarea type="text" class="form-control" placeholder="" style="height: 150px;border-color: #216582;width: 975px;margin-left: 40px;"> </textarea>
+
+			         </div> <br><br> <br><br><br><br> 
