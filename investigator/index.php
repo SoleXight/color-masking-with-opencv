@@ -446,3 +446,14 @@
 					  </div> -->
 					
 			<!--  <div id="people" class="container" style="margin-left: 16%;">
+			    <div class="col-md-3 input_val" style="margin-right: 500px;">
+			        <input type="text" placeholder="Gift" class="form-control" style="border-color: #216582;">
+			    </div>
+			     </div>
+			   
+
+
+             <div id="peoples" class="container" style="margin-left: 16%;">
+			    <div class="col-md-3 input_val" style="margin-right: 500px;">
+			       <input type="text" placeholder="Wallet" class="form-control" style="border-color: #216582;margin-left: 300px">
+			    </div>
