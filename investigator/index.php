@@ -486,3 +486,12 @@
 			          <div class="col-xs-2" style="margin-left: 1150px;margin-top: -190px;">
 				      <label aria-hidden="true">Artifacts<i class="btn btn-danger btn-block"><span class="glyphicon glyphicon-paperclip"></span></i>
 				        <input type="file" style="display:none" /></label>
+			       </div>
+			        
+			        -->
+			     <div class="container">
+			        <div class="col-md-3">
+			        	<button type="button" class="btn btn-danger" style="margin-left:1150px;margin-top:150px; width: 50%; position: absolute;" data-toggle="modal" data-target="#update" onclick="Updatebutton()" >Update</button>
+
+            
+  <!-- Button to Open the Modal -->
