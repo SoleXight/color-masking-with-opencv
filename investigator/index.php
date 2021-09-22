@@ -511,3 +511,15 @@
 			         <h3 class="modal-title" style="margin-left: 130px;">Succssfully Updated!</h3>
 			        </div>
 			        
+			        <!-- Modal footer -->
+			        <div class="modal-footer">
+			          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+			        </div>
+			        
+			      </div>
+			    </div>
+			  </div>
+			  
+			</div>
+
+					</div><br><br>
