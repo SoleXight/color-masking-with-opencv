@@ -495,3 +495,13 @@
 
             
   <!-- Button to Open the Modal -->
+   <!-- The Modal -->
+			  <div class="modal" id="update">
+			    <div class="modal-dialog">
+			      <div class="modal-content">
+			      
+			        <!-- Modal Header -->
+			        <div class="modal-header">
+			          
+			          <button type="button" class="close" data-dismiss="modal">&times;</button>
+			        </div>
