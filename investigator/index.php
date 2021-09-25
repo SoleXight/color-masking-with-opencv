@@ -534,3 +534,18 @@
 			          <button type="button" class="close" data-dismiss="modal" >&times;</button>
 			          <h4 class="modal-title">Blower - Investigator's Conversation's</h4>
 			        </div>
+			        <div class="modal-body" style="min-height: 300px; max-height: 300px; overflow: auto;">
+			        	<div class="conversations"></div>
+			          
+			        </div>
+
+			        <div class="modal-footer" >
+			        	<div class="col-md-9" style="margin-top: 10px;">
+					<input type="text" id="query" name="" class="form-control" placeholder="Ask more info...">
+				</div>
+				<div class="col-md-3"><input type="button" onclick="messagesent()" name="" class="btn btn-primary" value="Send Message" style="background-color: #2E9461;"></div>
+			        </div>
+			      </div>
+			  </div>
+			</div> 
+			     
