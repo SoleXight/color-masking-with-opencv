@@ -577,3 +577,17 @@
           var e =table.rows.length-1;
           var l =table.rows[e].cells.length;
           //x.innerHTML = "&nbsp;";
+          for (var c =0,  m=l; c < m; c++) {
+            table.rows[1].insertCell(c);
+            table.rows[1].cells[c].innerHTML  = "<input type='text' class='form-control'>";
+            }
+          }
+</script>
+
+<script type="text/javascript">
+
+
+    $(document).ready(function() {
+
+
+      $(".add-more").click(function(){ 
