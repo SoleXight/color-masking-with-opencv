@@ -571,3 +571,9 @@
 
 <script>
         function addRow(){
+          var table = document.getElementById('myTable');
+          //var row = document.getElementById("myTable");
+          var x = table.insertRow(1);
+          var e =table.rows.length-1;
+          var l =table.rows[e].cells.length;
+          //x.innerHTML = "&nbsp;";
