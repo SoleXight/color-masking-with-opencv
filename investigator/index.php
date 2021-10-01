@@ -628,3 +628,11 @@ for (i = 0; i < coll.length; i++) {
 <script>
 $(document).ready(function(){
   $("#peoples").hide();
+
+$("input[type='radio']").change(function(){
+if($(this).val()=="peos")
+{
+$("#peoples").hide();
+$("#people").show();
+}
+if($(this).val()=="peo")
