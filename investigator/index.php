@@ -636,3 +636,16 @@ $("#peoples").hide();
 $("#people").show();
 }
 if($(this).val()=="peo")
+{
+$("#peoples").show(); 
+$("#people").hide();
+}
+});
+});
+</script>
+
+<!-- <script>
+$(document).ready(function(){
+  $("#authknowsarea").hide();
+$("input[type='text']").change(function(){
+if($(this).val()=="NO")
