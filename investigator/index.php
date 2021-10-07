@@ -660,3 +660,15 @@ $("#authknowsarea").show();
 });
 </script> -->
 
+
+                                                  <!-- update part-->
+<script type="text/javascript">
+  function  Updatebutton(){
+  var blowdata = {
+    
+    SMLoss :$("#SMLoss").val(),
+    MOperandi :$("#MOperandi").val(),
+    WBUpdate : $("#WBUpdate").val(),
+    MUpdate :$("#MUpdate").val(),
+    encryptedSecret:"",
+    conversations: "Blower-Please ask your queries-"+new Date(),
