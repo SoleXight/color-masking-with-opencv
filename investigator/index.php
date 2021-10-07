@@ -672,3 +672,11 @@ $("#authknowsarea").show();
     MUpdate :$("#MUpdate").val(),
     encryptedSecret:"",
     conversations: "Blower-Please ask your queries-"+new Date(),
+    
+  }
+  $.ajax({
+    type:"POST",
+    url: "http://5d1b152edd81710014e8825d.mockapi.io/fixnix/whistle/1/investigator",
+    data : blowdata,
+    success : function(res){
+      console.log(res)
