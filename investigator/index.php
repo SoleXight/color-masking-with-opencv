@@ -680,3 +680,8 @@ $("#authknowsarea").show();
     data : blowdata,
     success : function(res){
       console.log(res)
+      document.getElementById('tip').innerHTML=res['tipNo']
+
+    }
+  });
+}
