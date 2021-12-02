@@ -23,3 +23,11 @@
 	.hide{
 		display: none;
 	}
+</style>
+</head>
+<body>
+<?php include "header.php"; ?>
+<div style="margin-top: 200px;"onchange="onChange()">
+  <div id="container" style="min-width: 310px; height: 500px; max-width: 600px; margin: 0 auto"></div>
+</div>
+
