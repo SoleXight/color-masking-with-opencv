@@ -31,3 +31,12 @@
   <div id="container" style="min-width: 310px; height: 500px; max-width: 600px; margin: 0 auto"></div>
 </div>
 
+
+<div class="container" style="margin-top: 100px;">
+	<div class="col-md-6" style="float: right;">
+		<!-- <select class="form-control company" onchange="onChange()">
+				<option value="">Select Company</option>
+				<option value="FixNix">FixNix</option>
+				<option value="Pied Piper">Pied Piper</option>
+				<option value= "Hooli">Hooli</option>
+			</select></div>
