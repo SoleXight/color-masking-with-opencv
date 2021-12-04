@@ -40,3 +40,13 @@
 				<option value="Pied Piper">Pied Piper</option>
 				<option value= "Hooli">Hooli</option>
 			</select></div>
+<br><br><br><br><hr/> -->
+	<div class="form-group recordslist hide">
+
+
+		<!-- <table class="table table-stripped">
+			<thead>
+				<th>Tip No</th>
+				<th>Incident</th>
+				<th>Monetory value of Fraud</th>
+				<th>Place of Occarance</th>
