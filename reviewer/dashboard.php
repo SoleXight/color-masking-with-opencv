@@ -62,3 +62,24 @@
 	</div>
 </div>
 </body>
+
+
+
+<script type="text/javascript">
+function onChange() {
+	var company = $(".company").val();
+	if(!company){
+		$('#tbody').append("");
+		$('#norecords').removeClass("hide")
+		return;
+	}
+    $.ajax({
+        url: 'https://5d1b152edd81710014e8825d.mockapi.io/fixnix/whistle',
+        type: 'get',
+        dataType: 'json',
+        success: function(data) {
+
+           data = _.filter(data,{companyName: company})
+           if(data.length==0){
+           	$('#tbody').html("");
+           	$('#norecords').removeClass("hide")
