@@ -104,3 +104,10 @@ function onChange() {
         }
         });
     };
+</script>
+
+<script>
+Highcharts.chart('container', {
+    chart: {
+        plotBackgroundColor: null,
+        plotBorderWidth: null,
