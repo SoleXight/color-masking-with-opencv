@@ -94,3 +94,13 @@ function onChange() {
                 "<td>"+data[i].monetaryValue+"</td>"+
                 "<td>"+data[i].place+"</td>"+
                 "<td>"+data[i].rewardType+"</td>"+                
+            "</tr>";
+            $('#tbody').append(Html);
+            $('#norecords').addClass("hide")
+            $(".recordslist").removeClass("hide")
+            console.log(Html);
+
+           }
+        }
+        });
+    };
