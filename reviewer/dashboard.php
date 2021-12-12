@@ -143,3 +143,10 @@ Highcharts.chart('container', {
             y: 11.84
         }, {
             name: 'Hooli',
+            y: 10.85
+        }, ]
+    }]
+});  
+</script>
+
+</html>
