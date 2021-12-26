@@ -2,4 +2,4 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="w
+  <meta name="viewport" content="width=devic
