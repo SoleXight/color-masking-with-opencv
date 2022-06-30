@@ -12,4 +12,4 @@
 <nav class="navbar navbar-inverse navbar-fixed-top" style="background: #2E9461; height: 70px; border:none; ">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="dashboard.php"><img src="whistle.png" style="height: 70px;width: 70px;margin-top: -10px;" title="DashBoard"> <a href=""><label style=" font-size: 12px;color:
+      <a class="navbar-brand" href="dashboard.php"><img src="whistle.png" style="height: 70px;width: 70px;margin-top: -10px;" title="DashBoard"> <a href=""><label style=" font-size: 12px;color:#ffffff;
