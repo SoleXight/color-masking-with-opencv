@@ -13,4 +13,5 @@
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="dashboard.php"><img src="whistle.png" style="height: 70px;width: 70px;margin-top: -10px;" title="DashBoard"> <a href=""><label style=" font-size: 12px;color:#ffffff;margin-top: 40px;">Powered By Corda</label></a>
+    </div>
    
