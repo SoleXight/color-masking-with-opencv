@@ -16,4 +16,4 @@
     </div>
     <ul class="nav navbar-nav" style="float: right;">
       <li><a href="index.php"><i class='fas fa-street-view' title="review" style='font-size:36px;color: white;'></i><label style="font-size: 15px; color: white; margin-top: 7px; font-family: 'Roboto', sans-serif;margin-left: 20px;">Reviewer</label></a></li>
-      <!-- <li><a href="dashboard.php"><label style="font-size: 15px; color: white; margin-top: 7px; font-family: 'Roboto', sans-serif;">DashBoard<
+      <!-- <li><a href="dashboard.php"><label style="font-size: 15px; color: white; margin-top: 7px; font-family: 'Roboto', sans-serif;">DashBoard</label></a></li
