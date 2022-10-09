@@ -19,4 +19,5 @@
       <!-- <li><a href="dashboard.php"><label style="font-size: 15px; color: white; margin-top: 7px; font-family: 'Roboto', sans-serif;">DashBoard</label></a></li> -->
     </ul>
   </div>
-</
+</nav>
+</body>
