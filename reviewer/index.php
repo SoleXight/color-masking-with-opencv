@@ -36,3 +36,8 @@
 						message: result[1],
 						time: result[2]
 					}
+					messages_list.push(datalist)
+				}
+				$(".container").removeClass('hide')
+				$("#tipNo").text(data.tipNo)
+				$("#createdAt").text(data.createdAt)
