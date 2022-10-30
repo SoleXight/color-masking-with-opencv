@@ -84,3 +84,16 @@
 				var messages_list = []
 				for(var i =0 ;i<messages_array.length;i++){
 					var result = messages_array[i].split("-")
+					var datalist ={
+						user_type:result[0],
+						message: result[1],
+						time: result[2]
+					}
+					messages_list.push(datalist)
+				}
+				$(".container").removeClass('hide')
+                $("#SMLoss").text(data.SMLoss)
+                $("#MOperandi").text(data.MOperandi)
+                $("#WBUpdate").text(data.WBUpdate)
+                $("#MUpdate").text(data.MUpdate) 
+                
