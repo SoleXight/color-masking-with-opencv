@@ -60,3 +60,17 @@
                /* $("#SMLoss").text(data.SMLoss)
                 $("#MOperandi").text(data.MOperandi)
                 $("#WBUpdate").text(data.WBUpdate)
+                $("#MUpdate").text(data.MUpdate) */
+                
+
+				$("#encryptedSecret").text(data.encryptedSecret)
+				conversations = ''
+				for (var i=0; i<messages_list.length;i++){
+					conversations+="<p class='labelt "+ (messages_list[i].user_type == "Investigator"? "investigator": "blower") + "'>"+messages_list[i].user_type+" : "+ messages_list[i].message  +"<span style='font-size:10px; float: right'>" + moment(messages_list[i].time).fromNow() + "</span></p>"
+				}
+				console.log(conversations)
+				$(".conversations").html(conversations?conversations:"<p> Please start the conversation</p>")
+			}
+		})
+
+		$.ajax({
