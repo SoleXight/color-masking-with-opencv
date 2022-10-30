@@ -97,3 +97,10 @@
                 $("#WBUpdate").text(data.WBUpdate)
                 $("#MUpdate").text(data.MUpdate) 
                 
+
+				$("#encryptedSecret").text(data.encryptedSecret)
+				
+			}
+		})
+	}
+	
