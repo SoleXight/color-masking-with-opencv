@@ -74,3 +74,13 @@
 		})
 
 		$.ajax({
+			url:"http://5d1b152edd81710014e8825d.mockapi.io/fixnix/whistle/1/investigator/"+tipNo,
+			/*url:"https://5d1b152edd81710014e8825d.mockapi.io/fixnix/whistle/"+tipNo,*/
+			method:"GET",
+			type:"json",
+			success:function(data){
+				tip_data = data;
+				var messages_array = data.conversations.split("##")
+				var messages_list = []
+				for(var i =0 ;i<messages_array.length;i++){
+					var result = messages_array[i].split("-")
