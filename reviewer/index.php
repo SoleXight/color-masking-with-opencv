@@ -104,3 +104,6 @@
 		})
 	}
 	
+	function messagesent(){
+		var message = $("#query").val();
+		var time = new Date()
