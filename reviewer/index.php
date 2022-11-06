@@ -107,3 +107,11 @@
 	function messagesent(){
 		var message = $("#query").val();
 		var time = new Date()
+		var text = "Investigator-"+message+"-"+time
+		var exists = tip_data.conversations.split("##")
+		if(exists.length==0){
+			tip_data.conversations = tip_data.conversations 
+		}else if(exists.length>0){
+			tip_data.conversations = tip_data.conversations +"##"+text
+		}
+		$.ajax({
