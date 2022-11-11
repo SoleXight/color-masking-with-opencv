@@ -125,3 +125,19 @@
 				$(".conversations").html(conversations?conversations:"<p> Please start the conversation</p>")
 			}
 		})
+	}
+ 
+	setInterval(()=>{
+		var tip = $("input").val();
+		if(tip){
+			clickt()
+			Updatebutton()
+		}
+	},2000)
+    
+
+   
+</script>
+<style>
+	
+	.hide{
