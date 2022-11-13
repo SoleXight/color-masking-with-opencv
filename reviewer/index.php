@@ -152,3 +152,15 @@
 	.message{
 		font-size: 11px;
 	}
+	.labelt{
+		font-size: 13px;
+	}
+
+
+	.collapsible {
+   
+  cursor: pointer;
+  
+  width: 9%;
+  border: none;
+  text-align: right;
