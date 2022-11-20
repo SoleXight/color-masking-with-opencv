@@ -164,3 +164,21 @@
   width: 9%;
   border: none;
   text-align: right;
+  outline: none;
+  font-size: 15px;
+  background: #FAFAFA;
+
+}
+
+
+.content {
+  display: none;
+  overflow: hidden;
+  
+}
+</style>
+</head>
+<body style="font-family:Times New Roman;background-color:#FAFAFA;" >
+<?php include "header.php"; ?>
+
+<div style="margin-left: 120px;">
