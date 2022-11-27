@@ -206,3 +206,13 @@
 		<div class="row form-group">        
 			<div class="col-md-2">	
 				<label style="font-size: 14px;margin-left: 90px;">Tip No</label><br>
+		       <span id="tipNo" class="form-control" style="font-size: 13px;margin-left: 90px;"></span> 
+			</div>
+			<div class="col-md-3">
+				<label style="font-size: 14px;margin-left: 90px;">Created Date</label><br>
+				<span id="createdAt" class="form-control" style="font-size: 13px; margin-left: 90px;"></span>
+			</div>
+			<div class="col-md-5">
+				<label style="font-size: 14px;margin-left: 90px;">Name of the Company </label><br>
+				<span id="companyName" class="form-control" style="font-size:13px;margin-left: 90px;"></span>
+			</div>
