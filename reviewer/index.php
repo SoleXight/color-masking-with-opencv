@@ -226,3 +226,15 @@
 	     <div class="row form-group">
 			
 			<div class="col-md-10">
+				<label style="font-size: 14px;margin-left: 90px;">Incident Informations</label>
+				<span id="nature" class="form-control"  style="font-size: 13px;margin-left: 90px; height:100px;"></span>
+			</div>
+
+	     </div>
+
+   
+<br>
+
+<!--<div class="container hide" id="data" style="border:2px solid #C3C8C6; margin-left: -18px; height: 90px;">	-->
+	
+<!--</div>-->
