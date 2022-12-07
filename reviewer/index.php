@@ -250,3 +250,8 @@
 				<span id="association" class="form-control" style="font-size: 13px;margin-left: 90px;"></span>
 			</div>
 			<div class="col-md-4">
+				<label style="font-size: 14px;margin-left: 90px;">Encounter</label><br>
+				<span id="howdoyouaware" class="form-control" style="font-size: 13px;margin-left: 90px;"></span>
+			</div>
+
+		</div>
