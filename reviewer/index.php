@@ -285,3 +285,12 @@
 				<label style="font-size: 14px;margin-left: 90px;">Authorities Know</label><br>
 				<span id="authknows" class="form-control" style="font-size: 13px;margin-left: 90px;"></span>
 			</div>
+
+			<div class="col-md-5">
+				<label style="font-size: 14px;margin-left: 90px;">Reward</label><br>
+				<span id="Reward" class="form-control" style="font-size: 13px; margin-left: 90px;"></span>
+			</div>
+	</div>
+
+<br>
+ <div class="container hide" id="authknowsarea" style="border:0px; /*solid #C3C8C6;*/ margin-left: -18px; height: 90px;">	
