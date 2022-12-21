@@ -294,3 +294,15 @@
 
 <br>
  <div class="container hide" id="authknowsarea" style="border:0px; /*solid #C3C8C6;*/ margin-left: -18px; height: 90px;">	
+	     <div class="row form-group">
+			<div class="col-md-3">
+				 <label style="font-size: 14px;margin-left: 90px;">Authority's Name</label><br>
+				<span id="NameAuth" class="form-control" style="font-size: 13px;margin-left: 90px; "></span>
+			</div>
+          <div class="col-md-4">
+			<label style="font-size: 14px;margin-left: 90px;">Authority's Email_ID</label><br>
+				<span id="EmailAuth" class="form-control" style="font-size: 13px;margin-left: 90px; "></span>
+			</div>
+			<div class="col-md-3">
+			<label style="font-size: 14px;margin-left: 90px;">Authority's Phone No.</label><br>
+				<span id="PhoneAuth" class="form-control" style="font-size: 13px;margin-left: 90px; "></span>		
