@@ -321,3 +321,13 @@
    </div>
  <!--<div class="container hide" style="margin-top: 50px;margin-left: 80px;">
   <button data-toggle="collapse" data-target="#demo"><img src="histroy.png" style="height: 40px; width: 40px;"></button>
+
+  <div id="demo" class="collapse">
+  <div style="min-height: 300px; max-height: 300px; overflow: auto;border:1px solid #C3C8C6;width: 950px;"><h2>Histroy</h2>
+        	<div class="conversations"></div>
+      
+      </div>
+   </div>
+
+</div><br>
+
