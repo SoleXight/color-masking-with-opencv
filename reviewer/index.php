@@ -358,3 +358,14 @@
 			    </div>
 			    <div class="col-md-4 input_val">
 			      <label style="font-size: 13px;">Designation:</label>
+			      <!--<input type="text" placeholder="Designation" class="form-control" style="border-color: #216582;">-->
+			      <span id="Designation" class="form-control" style="font-size: 13px; "></span>
+			    </div>
+			    <div class="col-md-3 input_val" style="width: 29%;">
+			      <label style="font-size: 13px;">Department:</label>
+			     <!-- <input type="text" placeholder="Department" class="form-control" style="border-color: #216582;">-->
+			     <span id="DepartmentIn" class="form-control" style="font-size: 13px; "></span>
+			    </div>
+			  
+			 <div class="input-group control-group after-add-more">
+			          <div class="input-group-btn"> 
