@@ -369,3 +369,21 @@
 			  
 			 <div class="input-group control-group after-add-more">
 			          <div class="input-group-btn"> 
+			            <button class="btn btn-success add-more" type="button" style="margin-top: 24px;margin-left: 60px;"><i class="glyphicon glyphicon-plus"></i></button>
+			          </div>
+			        </div>
+
+			                                            
+			       
+
+
+
+			 <div class="copy hide">
+			          <div class="container control-group input-group" style="margin-left: -14px;">
+			            <!-- <input type="text" name="addmore[]" class="form-control" placeholder="Enter Name Here"> -->
+			            <div class="col-md-3 input_val">
+			      <label style="font-size: 13px;">Name:</label>
+			      <input type="text" placeholder="Name" class="form-control" id="persons" style="border-color: #216582;">
+			    </div>
+			    <div class="col-md-4 input_val">
+			      <label style="font-size: 13px;">Designation:</label>
