@@ -395,3 +395,11 @@
 			    </div>
 			              <button class="btn btn-danger remove" type="button" style="margin-top: 24px;margin-left: 60px;"><i class="glyphicon glyphicon-remove"></i></button>
 			          </div>
+			        </div>
+			</div><br><br>
+			                                          <!--Edit image png section-->
+
+			            <!-- <div class="">
+			        	<div class="">
+			            <a href=""><img src="edit.png"style="height: 35px;width: 35px; margin-left: 1210px; margin-top: -140px"></a> 
+			        </div></div>-->   
