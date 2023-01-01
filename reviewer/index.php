@@ -403,3 +403,14 @@
 			        	<div class="">
 			            <a href=""><img src="edit.png"style="height: 35px;width: 35px; margin-left: 1210px; margin-top: -140px"></a> 
 			        </div></div>-->   
+
+			    
+			<div class="container control-group input-group" style="margin-left: 12%;">
+				<div class="row">
+			       	<div class="col-md-3 input_val" style="width: 24%;">
+
+			       <label style="font-size: 14px;">Reported Monetory</label><br>
+			       <span id="monetaryValue" class="form-control" style="font-size: 13px;"></span>   
+			      <!--<select class="form-control" id="fraud" style="border-color: #216582;">
+			        <option>--Select--</option>
+			        <option>$0 to $100,000</option>
