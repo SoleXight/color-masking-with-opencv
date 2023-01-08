@@ -425,3 +425,10 @@
 					<label style="font-size: 14px;">Suspected Monetory loss</label><br>
 				    <span id="SMLoss" class="form-control" style="font-size: 13px;"></span>   
 					</div>
+
+					<div class="col-md-2 input_val" style="width: 29%;">
+					<label style="font-size: 14px;">Modus Operandi</label><br>
+					<span id="MOperandi" class="form-control" style="font-size: 13px;"></span>   
+			      <!-- <select class="form-control " id="fraud" style="border-color: #216582;">
+			        <option>--Select--</option>
+			        <option>Cash</option>
