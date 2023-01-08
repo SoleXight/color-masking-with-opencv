@@ -432,3 +432,9 @@
 			      <!-- <select class="form-control " id="fraud" style="border-color: #216582;">
 			        <option>--Select--</option>
 			        <option>Cash</option>
+			        <option>Inperson</option>
+			        <option>Not Applicable</option>
+
+			      </select> -->
+					
+					</div>
