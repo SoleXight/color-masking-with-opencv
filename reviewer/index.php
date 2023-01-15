@@ -448,3 +448,13 @@
 				   <label style="font-size: 15px; margin-top: 10px; margin-right: 40px;" class="col-xs-1">WhistleBlower Update:</label> 
 			      	<div class="col-md-5" style="width: 72%;height: 50px;">
 			      		<span id="WBUpdate" class="form-control" style="font-size: 13px;height: 150px;width: 975px;"></span>
+
+				    <!-- <textarea type="text" class="form-control" placeholder="Give WhistleBlower on update" style="height: 150px;width: 975px;"> </textarea> -->
+					</div>
+			    </div>
+
+			<!-- <div class="">
+			        	<div class="">
+			            <a href=""><img src="send.png"style="height: 40px;width: 40px; margin-left: 1195px; margin-top: 10px"></a> 
+			        </div></div>-->
+
