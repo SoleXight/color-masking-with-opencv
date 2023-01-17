@@ -485,3 +485,18 @@
 			               <input type="radio" name="aware" value="peos" checked="checked"style="margin-left: 40px;">Self &nbsp;&nbsp;&nbsp;
 			               <input type="radio" name="aware" value="peo" style="margin-left: 290px;">Donate
 			        
+					    </div>
+					  </div>
+					
+			 <div id="people" class="container" style="margin-left: 16%;">
+			    <div class="col-md-3 input_val" style="margin-left: -720px;margin-top: 20px;">
+			        <input type="text" placeholder="Self" class="form-control" style="border-color: #216582;">
+			    </div>
+			     </div>
+			   
+
+
+             <div id="peoples" class="container" style="margin-left: 16%;">
+			    <div class="col-md-3 input_val" style="margin-right: 400px;">
+			       <input type="text" placeholder="Non-Profitable" class="form-control" style="border-color: #216582;margin-left: 280px; margin-top: 11px;">
+			    </div>
