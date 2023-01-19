@@ -500,3 +500,18 @@
 			    <div class="col-md-3 input_val" style="margin-right: 400px;">
 			       <input type="text" placeholder="Non-Profitable" class="form-control" style="border-color: #216582;margin-left: 280px; margin-top: 11px;">
 			    </div>
+
+			  </div>
+<!-- 
+			    <div class="col-md-3"><button class="btn btn-danger" style="margin-left:340%;margin-top:-20px; width:50%; position: absolute;">Thanks</button>
+					</div> -->
+     <br><br>
+
+
+			   
+                   <div class="form-group">
+			               <div class="col-xs-8">
+			               <input type="radio" name="aware" value="peo1" checked="checked" style="margin-left: 140px;"><b>Resolution </b>&nbsp;&nbsp;&nbsp;
+			               <input type="radio" name="aware" value="peo2" style="margin-left: 240px;"><b>Re-Investigate</b>
+			        
+					    </div>
