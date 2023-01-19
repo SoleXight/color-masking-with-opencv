@@ -515,3 +515,12 @@
 			               <input type="radio" name="aware" value="peo2" style="margin-left: 240px;"><b>Re-Investigate</b>
 			        
 					    </div>
+					  </div>
+                
+
+
+
+
+
+                <div id="peop1" class="container">   
+                  <textarea type="text" placeholder="Resolution" class="form-control" id="nature" style="height: 150px;border-color: #216582;width: 975px; margin-left: 140px;"></textarea>
