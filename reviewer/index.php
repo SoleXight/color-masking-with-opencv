@@ -524,3 +524,16 @@
 
                 <div id="peop1" class="container">   
                   <textarea type="text" placeholder="Resolution" class="form-control" id="nature" style="height: 150px;border-color: #216582;width: 975px; margin-left: 140px;"></textarea>
+      </div>
+			     
+			       
+				    <!-- <label style="font-size: 15px;" class="col-xs-1">Resolution </label>
+					 <div class="col-md-8" style="width: 72%;height: 50px;">-->
+					
+			       
+
+               <div id="peop2" class="container">
+			          <textarea type="text" placeholder="Re-Investigate" class="form-control" id="nature" style="height: 150px;border-color: #216582;width: 975px; margin-left: 140px;"></textarea>
+			    </div>
+			    
+
