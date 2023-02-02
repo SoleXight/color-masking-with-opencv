@@ -537,3 +537,17 @@
 			    </div>
 			    
 
+
+				    <!-- <label style="font-size: 15px;" class="col-xs-1">Re-Investigate </label>
+					 <div class="col-md-8" style="width: 72%;height: 50px;">-->
+					
+			        
+
+			          <div class="col-xs-2" style="margin-left: 1190px;margin-top: -120px;">
+				      <label aria-hidden="true">Artifacts<i class="btn btn-danger btn-block"><span class="glyphicon glyphicon-paperclip"></span></i>
+				        <input type="file" style="display:none" /></label>
+			       </div>
+			        
+			       
+			    
+			        <div class="col-md-3"><button class="btn btn-danger" style="margin-left:1150px;margin-top:50px; width: 50%; position: absolute;" data-toggle="modal" data-target="#update">Update</button>
