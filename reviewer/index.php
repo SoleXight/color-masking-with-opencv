@@ -551,3 +551,7 @@
 			       
 			    
 			        <div class="col-md-3"><button class="btn btn-danger" style="margin-left:1150px;margin-top:50px; width: 50%; position: absolute;" data-toggle="modal" data-target="#update">Update</button>
+					</div><br><br>
+
+					<div class="modal" id="update">
+			    <div class="modal-dialog">
