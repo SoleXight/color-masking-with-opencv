@@ -555,3 +555,8 @@
 
 					<div class="modal" id="update">
 			    <div class="modal-dialog">
+			      <div class="modal-content">
+			      
+			        <!-- Modal Header -->
+			        <div class="modal-header">
+			          
