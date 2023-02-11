@@ -635,3 +635,6 @@
             table.rows[1].cells[c].innerHTML  = "<input type='text' class='form-control'>";
             }
           }
+</script>
+
+<script type="text/javascript">
