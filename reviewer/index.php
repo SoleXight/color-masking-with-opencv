@@ -689,3 +689,13 @@ $("#people").show();
 }
 if($(this).val()=="peo")
 {
+$("#peoples").show(); 
+$("#people").hide();
+}
+});
+});
+</script>
+
+<script>
+$(document).ready(function(){
+  $("#peop1").hide();
