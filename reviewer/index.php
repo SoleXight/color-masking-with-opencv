@@ -699,3 +699,15 @@ $("#people").hide();
 <script>
 $(document).ready(function(){
   $("#peop1").hide();
+
+$("input[type='radio']").change(function(){
+if($(this).val()=="peo1")
+{
+$("#peop2").hide();
+$("#peop1").show();
+}
+if($(this).val()=="peo2")
+{
+$("#peop2").show(); 
+$("#peop1").hide();
+}
