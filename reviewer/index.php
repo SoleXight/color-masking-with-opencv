@@ -711,3 +711,13 @@ if($(this).val()=="peo2")
 $("#peop2").show(); 
 $("#peop1").hide();
 }
+});
+});
+</script>
+<!-- <script>
+$(document).ready(function(){
+  $("#authknowsarea").hide();
+$("input[type='text']").change(function(){
+if($(this).val()=="NO")
+{
+$("#authknowarea").hide();
