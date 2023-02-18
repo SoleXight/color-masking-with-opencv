@@ -721,3 +721,11 @@ $("input[type='text']").change(function(){
 if($(this).val()=="NO")
 {
 $("#authknowarea").hide();
+}
+if($(this).val()=="YES")
+{
+$("#authknowsarea").show(); 
+}
+});
+});
+ -->
