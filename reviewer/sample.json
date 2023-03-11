@@ -8,4 +8,6 @@
 	"authorities_know":"yes",
 	"nature":"worst",
 	"place":"text",
-	"rewardType"
+	"rewardType":"self"
+}
+
